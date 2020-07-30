@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/arnold/Desktop/Codes/BitcubeEval/BitcubeEval.csproj": {}
+    "/home/arnold/Desktop/Codes/ex/BitcubeEval/BitcubeEval.csproj": {}
   },
   "projects": {
-    "/home/arnold/Desktop/Codes/BitcubeEval/BitcubeEval.csproj": {
+    "/home/arnold/Desktop/Codes/ex/BitcubeEval/BitcubeEval.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/arnold/Desktop/Codes/BitcubeEval/BitcubeEval.csproj",
+        "projectUniqueName": "/home/arnold/Desktop/Codes/ex/BitcubeEval/BitcubeEval.csproj",
         "projectName": "BitcubeEval",
-        "projectPath": "/home/arnold/Desktop/Codes/BitcubeEval/BitcubeEval.csproj",
+        "projectPath": "/home/arnold/Desktop/Codes/ex/BitcubeEval/BitcubeEval.csproj",
         "packagesPath": "/home/arnold/.nuget/packages/",
-        "outputPath": "/home/arnold/Desktop/Codes/BitcubeEval/obj/",
+        "outputPath": "/home/arnold/Desktop/Codes/ex/BitcubeEval/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/arnold/.nuget/NuGet/NuGet.Config"

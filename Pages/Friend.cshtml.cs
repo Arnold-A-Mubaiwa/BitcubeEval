@@ -10,11 +10,11 @@ using Microsoft.AspNetCore.Authorization;
 namespace BitcubeEval.Pages
 {
     [Authorize]
-    public class PrivacyModel : PageModel
+    public class FriendModel : PageModel
     {
-        private readonly ILogger<PrivacyModel> _logger;
+        private readonly ILogger<FriendModel> _logger;
 
-        public PrivacyModel(ILogger<PrivacyModel> logger)
+        public FriendModel(ILogger<FriendModel> logger)
         {
             _logger = logger;
         }
